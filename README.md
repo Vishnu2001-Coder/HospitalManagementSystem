@@ -1,11 +1,11 @@
-# 🏥 Hospital Management System
+#  Hospital Management System
 
 A *console-based Java application* to manage hospital operations including patients, doctors, and appointments.  
 This project provides a complete backend solution for storing, viewing, and managing hospital records efficiently.
 
 ---
 
-## 🚀 Features
+# Features
 
 - *Patient Management*
   - Add and view patient records  
